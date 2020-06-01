@@ -1,5 +1,7 @@
 # Memory Game Project
 
+## [Play Now!](https://hadebk.github.io/memory-game/)
+
 ## Table of Contents
 
 * [Instructions](#instructions)
